@@ -1,0 +1,11 @@
+{
+  "name": "cra-template-folder-structured",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Marimuthu Raja",
+    "email": "marimuthuraja470@gmail.com",
+    "url": "https://github.com/Marimuthu-Raja"
+  }
+}
